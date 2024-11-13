@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello! 👋
 
+I'm Aistė, a data analyst, with a special interest in A/B testing and statistics!
 <!--
 **gircyte/gircyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
