@@ -3,7 +3,7 @@
 I'm Aistė, a data analyst, with a special interest in A/B testing and statistics! 👩‍💻  
 Currently learning: Python 🐍
 
-![Reading](https://media1.tenor.com/m/ig-VXmFIt2wAAAAd/aesthetic-anime.gif)
+![Studying](https://media1.tenor.com/m/9AoawPQh3p0AAAAd/anime-sad.gif)
 
 ## Tools I use 🛠️
  - SQL (BigQuery)
