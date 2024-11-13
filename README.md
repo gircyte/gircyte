@@ -9,6 +9,12 @@ Currently learning: Python 🐍
  - SQL (BigQuery)
  - Tableau
  - Excel
+ - Python (learning in progress)
+
+## Hobbies
+ - Data analyst by day, bookworm by night 📚
+ - No, but seriously. I *love* books 🤓
+ - I dabble in video gaming as well 😎
 <!--
 **gircyte/gircyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
