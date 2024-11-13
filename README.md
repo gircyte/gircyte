@@ -15,6 +15,9 @@ Currently learning: Python 🐍
  - Data analyst by day, bookworm by night 📚
  - No, but seriously. I *love* books 🤓
  - I dabble in video gaming as well 😎
+
+## Contact Me
+You can contact me on ![My LinkedIn](https://www.linkedin.com/in/aiste-gircyte/) 🌞
 <!--
 **gircyte/gircyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
