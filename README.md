@@ -17,7 +17,7 @@ Currently learning: Python 🐍
  - I dabble in video gaming as well 😎
 
 ## Contact Me
-You can contact me on ![My LinkedIn](https://www.linkedin.com/in/aiste-gircyte/) 🌞
+You can contact me on [My LinkedIn](https://www.linkedin.com/in/aiste-gircyte/) 🌞
 <!--
 **gircyte/gircyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
